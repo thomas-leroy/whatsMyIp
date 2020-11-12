@@ -60,7 +60,7 @@ export default {
   }
 
   p{
-    font-size: 7vw;
+    font-size: 6.2vw;
     font-weight: 700;
     margin: auto; /* Important */
     text-align: center;
