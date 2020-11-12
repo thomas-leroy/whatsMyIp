@@ -7,7 +7,7 @@
     <div class="otherStuff">
       <p>
         Viewport size: <br />
-        {{ browser.width }}px x {{ browser.height }}px <br />
+        {{ browser.width }}px X {{ browser.height }}px <br />
       </p>
     </div>
   </div>
@@ -72,6 +72,6 @@ export default {
 
   .otherStuff p{
     color: black;
-    font-size: 15px;
+    font-size: 3vw;
   }
 </style>
