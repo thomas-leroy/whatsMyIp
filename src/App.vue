@@ -1,5 +1,6 @@
 <template>
   <WhatsMyIp/>
+  <a href="https://github.com/thomas-leroy/whatsMyIp">View sources on Github.</a>
 </template>
 
 <script>
@@ -15,6 +16,7 @@ export default {
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
 body{
   margin: 0;
   padding: 0;
@@ -23,6 +25,7 @@ body{
   width: 100%;
 
 }
+
 #app {
   font-family: 'Montserrat', sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -30,5 +33,16 @@ body{
   text-align: center;
   height: 100%;
   flex-direction: row;
+}
+
+a {
+  display: inline-block;
+  position: absolute;
+  bottom: 2vh;
+  right: 2vw;
+  font-size: 14px;
+  text-decoration: none;
+  color: cadetblue;
+  border-bottom: 1px dotted cadetblue;
 }
 </style>
