@@ -1,8 +1,10 @@
-# Whats My Ip ?
+# Whats My Ip?
 
 Really straight forward project, it will... display your IP address.
 
 YAY!
+
+![preview](https://github.com/thomas-leroy/whatsMyIp/blob/master/screenshot.png?raw=true)
 
 ## Requirements
 
