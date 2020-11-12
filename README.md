@@ -4,6 +4,8 @@ Really straight forward project, it will... display your IP address.
 
 YAY!
 
+See it online: <https://whatsmyip.s6l.fr/>
+
 ![preview](https://github.com/thomas-leroy/whatsMyIp/blob/master/screenshot.png?raw=true)
 
 ## Requirements
